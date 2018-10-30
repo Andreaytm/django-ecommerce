@@ -16,8 +16,8 @@ idna==2.7
 jmespath==0.9.3
 psycopg2==2.7.5
 pycurl==7.19.3
-pygobject==3.12.0
-python-apt==0.9.3.5ubuntu2
+pygobject
+python-apt
 python-dateutil==2.7.3
 pytz==2018.5
 requests==2.20.0
