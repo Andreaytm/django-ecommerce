@@ -1,4 +1,4 @@
-Django==1.11.20
+Django==1.11.22
 Pillow==5.2.0
 boto3==1.9.18
 botocore==1.12.18
